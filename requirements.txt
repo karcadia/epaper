@@ -1,0 +1,7 @@
+gpiozero==2.0.1
+lgpio==0.2.2.0
+pigpio==1.78
+pillow==11.1.0
+pytz==2025.1
+requests==2.32.3
+spidev==3.6
